@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Abstract
 This website allows users to record their menstrual dates and track their moods simultaneously. It provides a simple way for users to keep track of their menstrual cycles while documenting their emotional states over time.
 
